@@ -1,5 +1,8 @@
 THIS ZIP FOLDER CONSISTS OF THE FOLLOWING FILES:
-1. The report containing links to jupiter notebooks on google colab. 
+1. The report.
+Links: 
+CNN Approach: https://drive.google.com/file/d/1FuPkp0orZlDarxs6eAdEQwNQTXLkkuqh/view?usp=sharing 
+Feature Extraction using Image Processing Techniques and Random Forest for Decision making: https://drive.google.com/file/d/1daT6Ha8P_CKxmXmZAy8wclA02889PXSm/view?usp=sharing
 2. CNNArchitecture.py contains the architecture of the CNN model that is trained and saved.
 3. CNNFrontend.py contains the streamlit app for testing using a frontend.
 4. RFfeatureExtraction.py contains the preprocessing and feature extraction that needs to be done to the image before
